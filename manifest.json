@@ -3,65 +3,65 @@
     "name": "AdoptMe: A Puppy Adoption App",
     "icons": [
       {
-        "src": "/images/icon-48.png",
+        "src": "hello-world-pwa/images/icon-48.png",
         "type": "image/png",
         "sizes": "48x48",
         "purpose": "any maskable"
       },
       {
-        "src": "/images/icon-96.png",
+        "src": "hello-world-pwa/images/icon-96.png",
         "type": "image/png",
         "sizes": "96x96",
         "purpose": "any maskable"
       },
       {
-        "src": "/images/icon-192.png",
+        "src": "hello-world-pwa/images/icon-192.png",
         "type": "image/png",
         "sizes": "192x192",
         "purpose": "any maskable"
       },
       {
-        "src": "/images/icon-512.png",
+        "src": "hello-world-pwa/images/icon-512.png",
         "type": "image/png",
         "sizes": "512x512",
         "purpose": "any maskable"
       }
     ],
-    "start_url": "/",
+    "start_url": "hello-world-pwa/",
     "background_color": "#ff0000",
     "display": "standalone",
-    "scope": "/",
+    "scope": "hello-world-pwa/",
     "theme_color": "#ff0000",
     "shortcuts": [
       {
         "name": "Adopt a Dog",
         "short_name": "Dogs",
         "description": "View available dogs",
-        "url": "/pages/dogs.html",
-        "icons": [{ "src": "/images/dogs_1.png", "sizes": "192x192" }]
+        "url": "hello-world-pwa/pages/dogs.html",
+        "icons": [{ "src": "hello-world-pwa/images/dogs_1.png", "sizes": "192x192" }]
       },
       {
         "name": "Adopt a Cat",
         "short_name": "Cats",
         "description": "View available cats",
-        "url": "/pages/cats.html",
-        "icons": [{ "src": "/images/cats_1.png", "sizes": "192x192" }]
+        "url": "hello-world-pwa/pages/cats.html",
+        "icons": [{ "src": "hello-world-pwa/images/cats_1.png", "sizes": "192x192" }]
       }
     ],
     "description": "AdoptMe Pages",
     "screenshots": [
       {
-        "src": "/images/screenshot_main.png",
+        "src": "hello-world-pwa/images/screenshot_main.png",
         "type": "image/png",
         "sizes": "540x720"
       },
       {
-        "src": "/images/screenshot_dogs.png",
+        "src": "hello-world-pwa/images/screenshot_dogs.png",
         "type": "image/jpg",
         "sizes": "540x720"
       },
       {
-        "src": "/images/screenshot_cats.png",
+        "src": "hello-world-pwa/images/screenshot_cats.png",
         "type": "image/jpg",
         "sizes": "540x720"
       }
