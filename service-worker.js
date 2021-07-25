@@ -8,9 +8,9 @@ if ('serviceWorker' in navigator) {
 // Install service worker
 const CACHE_NAME = 'hello-world-cache';
 const urlsToCache = [
-  '/hello-world-pwa/',
-  '/hello-world-pwa//pages/cats.html',
-  '/hello-world-pwa/pages/dogs.html'
+  '/',
+  '/pages/cats.html',
+  '/pages/dogs.html'
 ];
 
 self.addEventListener('install', function(event) {
