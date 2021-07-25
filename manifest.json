@@ -30,7 +30,7 @@
     "start_url": "/",
     "background_color": "#ff0000",
     "display": "standalone",
-    "scope": "hello-world-pwa/",
+    "scope": "/",
     "theme_color": "#ff0000",
     "shortcuts": [
       {
