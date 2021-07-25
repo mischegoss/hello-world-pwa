@@ -9,8 +9,8 @@ if ('serviceWorker' in navigator) {
 const CACHE_NAME = 'hello-world-cache';
 const urlsToCache = [
   '/hello-world-pwa/',
-  'hello-world-pwa//pages/cats.html',
-  'hello-world-pwa/pages/dogs.html'
+  '/hello-world-pwa//pages/cats.html',
+  '/hello-world-pwa/pages/dogs.html'
 ];
 
 self.addEventListener('install', function(event) {
