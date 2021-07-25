@@ -8,7 +8,8 @@ h1 {
 
 .card,
 .carousel,
-.button-section {
+.button-section,
+.btn-danger {
   margin: 0 auto;
   width: 70vw;
 }
