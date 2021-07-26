@@ -27,7 +27,7 @@
         "purpose": "any maskable"
       }
     ],
-    "start_url": "/",
+    "start_url": "/hello-world-pwa/",
     "background_color": "#ff0000",
     "display": "standalone",
     "scope": "/",
